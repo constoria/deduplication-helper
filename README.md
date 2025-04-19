@@ -1,5 +1,5 @@
-# deduplication-helper
-Cleans DOI and page numbers in RIS and TXT files for bibliographic references' deduplication
+# Deduplication Helper for EndNote
+Cleans DOI and page numbers in RIS and TXT files for bibliographic references deduplication
 
 - DOI fields (`DO`) by adding `https://doi.org/` if missing
 - Decoding of encoded characters (e.g., `%28` → `(`, `%29` → `)`)
@@ -10,6 +10,7 @@ Cleans DOI and page numbers in RIS and TXT files for bibliographic references' d
 - Easy file selection via GUI
 - Automatically saves a cleaned version next to the original file
 - Standalone `.exe` available (no Python installation needed)
+- Description of how to use it with EndNote: [constoria.ch/deduplication-helper](https://constoria.ch/deduplication-helper)
 
 ## 📦 Installation
 
