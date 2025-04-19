@@ -15,7 +15,7 @@ Cleans DOI and page numbers in RIS and TXT files for bibliographic references' d
 
 ### Option 1: Run as `.exe`
 
-1. [Download deduplication-helper-installer.exe](https://constoria.ch/deduplication-helper)
+1. [Download deduplication-helper-installer.exe from constoria.ch/deduplication-helper](https://constoria.ch/deduplication-helper)
 
 ### Option 2: Run the Python script
 
